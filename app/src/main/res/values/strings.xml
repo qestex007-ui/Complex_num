@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Комплексные числа</string>
+    <string name="tab_algebraic_to_polar">Алгебраическая → Показательная</string>
+    <string name="tab_polar_to_algebraic">Показательная → Алгебраическая</string>
+    <string name="tab_history">История</string>
+    <string name="real_part">Действительная часть (Re, a)</string>
+    <string name="imag_part">Мнимая часть (Im, b)</string>
+    <string name="modulus">Модуль (r, |z|)</string>
+    <string name="angle">Аргумент (φ, theta)</string>
+    <string name="convert_button">Рассчитать</string>
+    <string name="save_button">Сохранить</string>
+    <string name="clear_button">Очистить</string>
+    <string name="copy_result">Скопировать результат</string>
+    <string name="copied_to_clipboard">Скопировано в буфер обмена</string>
+    <string name="empty_history">История вычислений пуста</string>
+    <string name="step_by_step">Пошаговое решение</string>
+    <string name="argand_plane">Комплексная плоскость (Гаусс)</string>
+    <string name="favorites_only">Только избранные</string>
+    <string name="clear_history">Очистить историю</string>
+    <string name="clear_history_confirm">Вы уверены, что хотите удалить всю историю вычислений?</string>
+    <string name="delete">Удалить</string>
+    <string name="cancel">Отмена</string>
+</resources>
